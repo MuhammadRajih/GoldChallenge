@@ -1,0 +1,9 @@
+html {font-size: 12px;}
+          div > strong {font-size: 3rem;}
+          li {
+            float: right;
+          }  
+          li a {
+            padding: 8px;
+            font-weight: bold;
+          }
